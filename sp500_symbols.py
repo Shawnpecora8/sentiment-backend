@@ -1,0 +1,23 @@
+sp500_symbols = [
+    "AAPL", "MSFT", "AMZN", "GOOGL", "META", "TSLA", "BRK.B", "NVDA", "UNH", "JNJ",
+    "V", "XOM", "JPM", "PG", "MA", "CVX", "HD", "LLY", "ABBV", "MRK", "PEP", "KO",
+    "AVGO", "COST", "BAC", "ADBE", "WMT", "PFE", "CRM", "INTC", "TMO", "ABT", "CSCO",
+    "DIS", "ACN", "MCD", "DHR", "NKE", "LIN", "TXN", "VZ", "NEE", "WFC", "BMY", "ORCL",
+    "AMD", "MS", "AMGN", "HON", "UNP", "QCOM", "UPS", "PM", "INTU", "IBM", "RTX", "T",
+    "LOW", "GS", "CAT", "PLD", "ISRG", "BLK", "LMT", "GE", "DE", "MDT", "NOW", "SPGI",
+    "ELV", "SYK", "AMT", "AXP", "CVS", "CI", "ADI", "ZTS", "GILD", "CB", "MO", "BKNG",
+    "MDLZ", "ADI", "CL", "MMC", "DUK", "USB", "SO", "C", "TJX", "ADP", "VRTX", "PGR",
+    "BDX", "TGT", "HCA", "PNC", "FIS", "FISV", "APD", "SHW", "CME", "REGN", "ITW",
+    "EOG", "EQIX", "COF", "CSX", "NSC", "ETN", "FDX", "AON", "AEP", "ALL", "GM", "KMB",
+    "PSX", "EMR", "ICE", "HUM", "ADSK", "SLB", "EW", "MCO", "SPG", "MPC", "AFL", "AZO",
+    "IDXX", "STZ", "A", "CDNS", "ROP", "TRV", "MTD", "MNST", "ORLY", "BIIB", "KHC",
+    "ILMN", "WMB", "PCAR", "TSCO", "WELL", "ROST", "PRU", "WBD", "HAL", "NEM", "DLR",
+    "EXC", "VLO", "PAYX", "LRCX", "NUE", "ED", "MAR", "PEG", "XEL", "CTSH", "EFX",
+    "HPQ", "CTAS", "KLAC", "OTIS", "ES", "DVN", "PH", "AVB", "HSY", "MAA", "PPG", "SRE",
+    "D", "FAST", "VICI", "SBAC", "EIX", "O", "ABC", "FTNT", "F", "CMI", "TEL", "TSN",
+    "DLTR", "RMD", "HES", "KEYS", "ANET", "BKR", "WTW", "ZBRA", "WEC", "ALGN", "CARR",
+    "CHD", "HOLX", "BALL", "BAX", "MKC", "STT", "PPL", "MLM", "AES", "TYL", "DRI",
+    "CMS", "GLW", "CTRA", "RCL", "IPG", "RF", "LUV", "VTRS", "FANG", "GEN", "NTRS",
+    "TER", "CAG", "AKAM", "CAH", "HBAN", "EXR", "BXP", "CF", "APA", "MHK", "DVA", "ZION",
+    "NWSA", "NWL", "FOX", "FOXA"
+]
